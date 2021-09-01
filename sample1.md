@@ -8,7 +8,7 @@
 
 Hello World!
 
-向こうのブランチではここに変更が入ってるはずです
+
 
 aaaa
 bbbb

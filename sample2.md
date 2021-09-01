@@ -6,7 +6,7 @@
 
 Hello sample2!
 
-ここに変更が入ってるとconflictするはず
+
 
 abcd
 efgh
